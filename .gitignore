@@ -1,8 +1,8 @@
 # dependencies
 node_modules/
 
-# production
-dist/
+# enabled for direct import from github
+# dist/
 
 # misc
 .DS_STORE
@@ -11,3 +11,4 @@ dist/
 *.swp
 *.swo
 *~
+.idea
